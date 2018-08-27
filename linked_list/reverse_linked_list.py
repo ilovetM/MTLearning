@@ -46,5 +46,5 @@ if __name__ == '__main__':
     c.next = d
     d.next = e
     print(a)
-    # print(Solution.reverse_list(a))
-    print(Solution.reverse_list_recursive(a))
+    print(Solution.reverse_list(a))
+    # print(Solution.reverse_list_recursive(a))
